@@ -1,3 +1,3 @@
-x='mango'
+x='orange'
 string=''.join(reversed(x))
 print(string)
